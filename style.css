@@ -29,30 +29,6 @@ body {
 .shadow {
   box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
 }
-#s:hover {
-  box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
-}
-#d:hover {
-  box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
-}
-#f:hover {
-  box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
-}
-#g:hover {
-  box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
-}
-#h:hover {
-  box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
-}
-#j:hover {
-  box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
-}
-#k:hover {
-  box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
-}
-#l:hover {
-  box-shadow: 2px 2px 8px 2px rgb(214, 154, 42);
-}
 h1 {
   text-align: center;
   color: white;
